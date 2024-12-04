@@ -1,4 +1,7 @@
 # Lab2-Project
+
+Everything about this Machine Learning Project (models and results) is explained in the Krsto_Vujovic_Lab2_Project.pdf file.
+
 Supplementary material for Lab2 Project Bioinformatics.
 
 In supplementary material is included pdf for taxonomic data as required.
